@@ -53,7 +53,7 @@ spec:
       containers:
       - env:
         - name: STATUS_MY_PORT
-          value: "9082"
+          value: "9083"
         - name: PROM_MON_PORT
           value: "9095"
         - name: BW_PROFILE
